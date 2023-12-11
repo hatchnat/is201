@@ -1,0 +1,66 @@
+.img-fluid {
+    max-width: 100% !important; /* This makes the image responsive, ensuring it scales down on smaller screens */
+    height: auto!important; /* This maintains the aspect ratio of the image */
+}
+
+.img-profile {
+    border-radius: 50%!important; /* This makes the image round */
+}
+
+.rounded-circle {
+    border-radius: 50%!important; /* Ensures the image is perfectly round, overriding other styles if necessary */
+}
+
+.mx-auto {
+    margin-right: auto!important; /* This centers the image horizontally in its container */
+    margin-left: auto!important; /* This also centers the image horizontally in its container */
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem!important; /* Adds a small margin below the image; 1 rem is usually equal to 16px, so this is 8px */
+}
+
+
+.darkcolor{
+    background-color: rgb(197, 139, 252) !important;
+}
+.mb-0{
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    color: rgb(104, 104, 104);
+}
+.text-primary{
+    color:rgb(197, 139, 252) !important;
+}
+.social-icons{
+    padding-top: 200px;
+}
+.social-icons .social-icon:hover {
+    background-color: rgb(197, 139, 252) !important;
+  }
+.subheading-mb-5{
+   font-family: Georgia, 'Times New Roman', Times, serif !important;
+   font-size: large !important;
+}
+.email{
+    color:rgb(197, 139, 252) !important;
+}
+.lead-mb-5{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    font-size: large !important;
+}
+.navbar-nav{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.mb-5{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.subheading{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.mb-51{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.flex-shrink-0{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
